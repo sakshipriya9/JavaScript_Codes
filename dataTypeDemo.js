@@ -14,10 +14,10 @@ console.log("Is a student?", isStudent);
 var user = {name: "Sakshi", age: 22, course:"Fullstack Developer",company:"Google", isAStudent: true};
 console.log("Details of the user is:", user);
 var user1 ={
-    name: "Manshi",
-    age: 23,
+    name: "Aryan",
+    age: 24,
     course: "Fullstack Developer",
-    company: "Not Known",
+    company: "Microsoft",
     isAStudent: true
 };
 console.log("another details of the user is:", user1);
